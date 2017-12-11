@@ -15,9 +15,9 @@ public class Main {
         if (numbers.length <= 1){
             return numbers;
         }
-        int left = [];
-        int right = [];
-        for (i : numbers){
+        int left = numbers[0];
+        int right = numbers[0];
+        for (i=0 i<){
 
         }
 
